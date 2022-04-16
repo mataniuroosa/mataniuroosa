@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mataniuroosa
+- 👋 Hi, I’m @uroosa
 - 👀 I’m interested in learning emerging 
 - 🌱 I’m currently learning blockchain platforms 
 - 💞️ I’m looking to collaborate on company
